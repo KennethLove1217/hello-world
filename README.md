@@ -1,7 +1,4 @@
 # hello-world
-yahw
-
----
 
 Project Owner: Kenneth Love
 
